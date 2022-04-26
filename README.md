@@ -14,7 +14,7 @@ Create a virtualenv and install requirements. You can do this by running:
 
 ```bash
 
-virtualenv venv
+virtualenv venv --python=python3.9
 
 source venv/bin/activate
 
