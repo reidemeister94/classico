@@ -1,5 +1,6 @@
 matplotlib==3.5.1
 numpy==1.21.6
+nb-black==1.0.7
 pandas==1.4.1
 scikit_learn==1.0.2
 tensorflow==2.8.0
