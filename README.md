@@ -4,7 +4,7 @@ Classification model for job openings written in **Keras**, composed of _Convolu
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.8+
 
 - pip/virtualenv/conda installed
 
@@ -14,7 +14,7 @@ Create a virtualenv and install requirements. You can do this by running:
 
 ```bash
 
-virtualenv venv --python=python3.9
+virtualenv venv --python=python3.8
 
 source venv/bin/activate
 
