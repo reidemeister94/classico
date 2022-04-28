@@ -131,3 +131,5 @@ dmypy.json
 data/sample_eval_map_top_n_accuracy.csv
 
 data/sample_model/
+
+.DS_Store
