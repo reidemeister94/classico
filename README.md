@@ -1,6 +1,6 @@
-# Job Categorizer
+# CLASSICO - A multilingual Job Categorizer
 
-Classification model for job openings written in **Keras**, composed of _Convolutional Neural Net_ for sentence embedding creation ([universal-sentence-encoder-multilingual](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)) + dense layers for classification.
+Multi-language classification model for job openings written in **Keras**, composed of _Convolutional Neural Net_ for sentence embedding creation ([universal-sentence-encoder-multilingual](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)) + dense layers for classification.
 
 ## Prerequisites
 
