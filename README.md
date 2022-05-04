@@ -38,13 +38,10 @@ Create a virtualenv and install requirements. You can do this by running:
 
 virtualenv venv --python=python3.8
 
-  
-
 source venv/bin/activate
 
-  
-
 pip install -r requirements.txt
+
 python -m ipykernel install --user --name=venv
 
   
