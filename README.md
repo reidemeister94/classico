@@ -2,8 +2,6 @@
   <img src="logo.png" alt="Classico" width="500" height="449">
 </div>
 
-# CLASSICO
-
 ## A multilingual Job Categorizer
 
   
