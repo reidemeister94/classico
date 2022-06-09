@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+  <img src="logo.png" alt="Classico" width="500" height="449">
 </div>
 
 # CLASSICO
