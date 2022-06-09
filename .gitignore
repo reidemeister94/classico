@@ -135,5 +135,4 @@ data/sample_model/
 .DS_Store
 
 model.png
-
-*.png
+training_history.png

@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.png">
+</div>
+
 # CLASSICO
 
 ## A multilingual Job Categorizer
