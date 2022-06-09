@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Classico" width="500" height="449">
+  <img src="logo.png" alt="Classico" width="400" height="359">
 </div>
 
 ## A multilingual Job Categorizer
