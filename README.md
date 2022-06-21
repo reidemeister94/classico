@@ -56,4 +56,4 @@ python -m ipykernel install --user --name=venv
 
   
 
-After the installation of the requirements, it is possible to run the `training.ipynb` notebook placed in the root of the project, where everything needed for training and evaluation is included.
+After the installation of the requirements, it is possible to run the `training-poc.ipynb` notebook placed in the root of the project, where everything needed for training and evaluation is included.
